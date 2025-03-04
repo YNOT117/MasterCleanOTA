@@ -1,10 +1,10 @@
 body{
-    background: linear-gradient(#e49532, #FFFFFF);
+    background: linear-gradient(#1ec4ee, #FFFFFF);
 }
 .myButton {
     width: 100px;
 	box-shadow: 0px 10px 14px -7px #545454;
-	background-color:#22408e;
+	background-color:hwb(186 24% 1%);
 	border-radius:8px;
 	display:inline-block;
 	cursor:pointer;
